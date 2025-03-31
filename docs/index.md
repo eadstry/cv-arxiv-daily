@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.26
+## Updated on 2025.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4471,6 +4471,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**F-INR: Functional Tensor Decomposition for Implicit Neural Representations**|Sai Karthikeya Vemuri et.al.|[2503.21507](http://arxiv.org/abs/2503.21507)|null|
+|**2025-03-28**|**Multi-Scale Invertible Neural Network for Wide-Range Variable-Rate Learned Image Compression**|Hanyue Tu et.al.|[2503.21284](http://arxiv.org/abs/2503.21284)|**[link](https://github.com/hytu99/msinn-vrlic)**|
+|**2025-03-25**|**Bitstream Collisions in Neural Image Compression via Adversarial Perturbations**|Jordan Madden et.al.|[2503.19817](http://arxiv.org/abs/2503.19817)|null|
+|**2025-03-25**|**TFIC: End-to-End Text-Focused Image Compression for Coding for Machines**|Stefano Della Fiore et.al.|[2503.19495](http://arxiv.org/abs/2503.19495)|null|
+|**2025-03-25**|**Multiscale Feature Importance-based Bit Allocation for End-to-End Feature Coding for Machines**|Junle Liu et.al.|[2503.19278](http://arxiv.org/abs/2503.19278)|null|
 |**2025-03-23**|**Guided Diffusion for the Extension of Machine Vision to Human Visual Perception**|Takahiro Shindo et.al.|[2503.17907](http://arxiv.org/abs/2503.17907)|null|
 |**2025-03-20**|**Overview of Variable Rate Coding in JPEG AI**|Panqi Jia et.al.|[2503.16288](http://arxiv.org/abs/2503.16288)|null|
 |**2025-03-17**|**OSLO-IC: On-the-Sphere Learned Omnidirectional Image Compression with Attention Modules and Spatial Context**|Paul Wawerek-López et.al.|[2503.13119](http://arxiv.org/abs/2503.13119)|null|
@@ -4526,10 +4531,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**GIViC: Generative Implicit Video Compression**|Ge Gao et.al.|[2503.19604](http://arxiv.org/abs/2503.19604)|null|
 |**2025-03-20**|**PromptMobile: Efficient Promptus for Low Bandwidth Mobile Video Streaming**|Liming Liu et.al.|[2503.16112](http://arxiv.org/abs/2503.16112)|null|
 |**2025-03-14**|**FG-DFPN: Flow Guided Deformable Frame Prediction Network**|M. Akın Yılmaz et.al.|[2503.11343](http://arxiv.org/abs/2503.11343)|**[link](https://github.com/KUIS-AI-Tekalp-Research-Group/frame-prediction)**|
 |**2025-03-11**|**Residual Learning and Filtering Networks for End-to-End Lossless Video Compression**|Md baharul Islam et.al.|[2503.08819](http://arxiv.org/abs/2503.08819)|null|
-|**2025-03-08**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
+|**2025-03-27**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|**[link](https://github.com/ali-vilab/cdt)**|
 |**2025-03-04**|**UAR-NVC: A Unified AutoRegressive Framework for Memory-Efficient Neural Video Compression**|Jia Wang et.al.|[2503.02733](http://arxiv.org/abs/2503.02733)|null|
 |**2025-03-03**|**Lossy Neural Compression for Geospatial Analytics: A Review**|Carlos Gomes et.al.|[2503.01505](http://arxiv.org/abs/2503.01505)|null|
 |**2025-03-01**|**High Dynamic Range Video Compression: A Large-Scale Benchmark Dataset and A Learned Bit-depth Scalable Compression Algorithm**|Zhaoyi Tian et.al.|[2503.00410](http://arxiv.org/abs/2503.00410)|**[link](https://github.com/sdkinda/hdr-learned-video-coding)**|
@@ -4581,6 +4587,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757](http://arxiv.org/abs/2503.21757)|null|
+|**2025-03-27**|**As easy as PIE: understanding when pruning causes language models to disagree**|Pietro Tropeano et.al.|[2503.21714](http://arxiv.org/abs/2503.21714)|**[link](https://github.com/pietrotrope/aseasyaspie)**|
+|**2025-03-27**|**Shear Strain-Induced Multiferroic Response in the Altermagnetic Semiconductor CuFeS $_2$**|Roman Malyshev et.al.|[2503.21637](http://arxiv.org/abs/2503.21637)|null|
+|**2025-03-27**|**Nonlinear Multiple Response Regression and Learning of Latent Spaces**|Ye Tian et.al.|[2503.21608](http://arxiv.org/abs/2503.21608)|null|
+|**2025-03-27**|**F-INR: Functional Tensor Decomposition for Implicit Neural Representations**|Sai Karthikeya Vemuri et.al.|[2503.21507](http://arxiv.org/abs/2503.21507)|null|
+|**2025-03-27**|**Embedding Compression Distortion in Video Coding for Machines**|Yuxiao Sun et.al.|[2503.21469](http://arxiv.org/abs/2503.21469)|null|
+|**2025-03-27**|**Subtle Structural Anomaly under Compression in Line-Nodal CaSb $_2$**|Hidemitsu Takahashi et.al.|[2503.21340](http://arxiv.org/abs/2503.21340)|null|
+|**2025-03-27**|**A Low-Power Streaming Speech Enhancement Accelerator For Edge Devices**|Ci-Hao Wu et.al.|[2503.21335](http://arxiv.org/abs/2503.21335)|null|
+|**2025-03-27**|**InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression**|Dongchen Lu et.al.|[2503.21307](http://arxiv.org/abs/2503.21307)|null|
+|**2025-03-27**|**Shock compression-based equation of state for perfluorohexane**|Anunay Prasanna et.al.|[2503.21306](http://arxiv.org/abs/2503.21306)|null|
 |**2025-03-24**|**xKV: Cross-Layer SVD for KV-Cache Compression**|Chi-Chih Chang et.al.|[2503.18893](http://arxiv.org/abs/2503.18893)|null|
 |**2025-03-24**|**Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation**|Yanda Chen et.al.|[2503.18872](http://arxiv.org/abs/2503.18872)|null|
 |**2025-03-24**|**On the singular limit of Brinkman's law to Darcy's law**|Noemi David et.al.|[2503.18870](http://arxiv.org/abs/2503.18870)|null|
