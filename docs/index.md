@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.01
+## Updated on 2025.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4471,6 +4471,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression**|Lucas Relic et.al.|[2504.02579](http://arxiv.org/abs/2504.02579)|null|
+|**2025-04-02**|**SELIC: Semantic-Enhanced Learned Image Compression via High-Level Textual Guidance**|Haisheng Fu et.al.|[2504.01279](http://arxiv.org/abs/2504.01279)|null|
+|**2025-04-01**|**Learned Image Compression with Dictionary-based Entropy Model**|Jingbo Lu et.al.|[2504.00496](http://arxiv.org/abs/2504.00496)|null|
+|**2025-04-01**|**Learned Image Compression and Restoration for Digital Pathology**|SeonYeong Lee et.al.|[2503.23862](http://arxiv.org/abs/2503.23862)|**[link](https://github.com/pnu-amilab/cleric)**|
+|**2025-03-29**|**ShiftLIC: Lightweight Learned Image Compression with Spatial-Channel Shift Operations**|Youneng Bao et.al.|[2503.23052](http://arxiv.org/abs/2503.23052)|**[link](https://github.com/baoyu2020/shiftlic)**|
 |**2025-03-27**|**F-INR: Functional Tensor Decomposition for Implicit Neural Representations**|Sai Karthikeya Vemuri et.al.|[2503.21507](http://arxiv.org/abs/2503.21507)|null|
 |**2025-03-28**|**Multi-Scale Invertible Neural Network for Wide-Range Variable-Rate Learned Image Compression**|Hanyue Tu et.al.|[2503.21284](http://arxiv.org/abs/2503.21284)|**[link](https://github.com/hytu99/msinn-vrlic)**|
 |**2025-03-25**|**Bitstream Collisions in Neural Image Compression via Adversarial Perturbations**|Jordan Madden et.al.|[2503.19817](http://arxiv.org/abs/2503.19817)|**[link](https://github.com/neddamj/nicsec)**|
@@ -4531,6 +4536,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression**|Yongqi Zhai et.al.|[2504.02560](http://arxiv.org/abs/2504.02560)|null|
+|**2025-03-30**|**Enhancing 3D Gaussian Splatting Compression via Spatial Condition-based Prediction**|Jingui Ma et.al.|[2503.23337](http://arxiv.org/abs/2503.23337)|null|
+|**2025-03-29**|**Improved Motion Plane Adaptive 360-Degree Video Compression Using Affine Motion Models**|Marina Ritthaler et.al.|[2503.23151](http://arxiv.org/abs/2503.23151)|null|
 |**2025-03-25**|**GIViC: Generative Implicit Video Compression**|Ge Gao et.al.|[2503.19604](http://arxiv.org/abs/2503.19604)|null|
 |**2025-03-20**|**PromptMobile: Efficient Promptus for Low Bandwidth Mobile Video Streaming**|Liming Liu et.al.|[2503.16112](http://arxiv.org/abs/2503.16112)|null|
 |**2025-03-14**|**FG-DFPN: Flow Guided Deformable Frame Prediction Network**|M. Akın Yılmaz et.al.|[2503.11343](http://arxiv.org/abs/2503.11343)|**[link](https://github.com/KUIS-AI-Tekalp-Research-Group/frame-prediction)**|
@@ -4587,6 +4595,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Component-wise Krasnosel'skii type fixed point theorem in product spaces and applications**|Laura M Fernández-Pardo et.al.|[2504.02774](http://arxiv.org/abs/2504.02774)|null|
+|**2025-04-03**|**GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration**|Yuhang Li et.al.|[2504.02692](http://arxiv.org/abs/2504.02692)|null|
+|**2025-04-03**|**Compositionality Unlocks Deep Interpretable Models**|Thomas Dooms et.al.|[2504.02667](http://arxiv.org/abs/2504.02667)|null|
+|**2025-04-03**|**Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression**|Lucas Relic et.al.|[2504.02579](http://arxiv.org/abs/2504.02579)|null|
+|**2025-04-03**|**L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression**|Yongqi Zhai et.al.|[2504.02560](http://arxiv.org/abs/2504.02560)|null|
+|**2025-04-03**|**UNDO: Understanding Distillation as Optimization**|Kushal Jain et.al.|[2504.02521](http://arxiv.org/abs/2504.02521)|null|
+|**2025-04-03**|**An MHD Simulation of the Possible Modulations of Stellar CMEs Radio Observations by an Exoplanetary Magnetosphere**|Soumitra Hazra et.al.|[2504.02469](http://arxiv.org/abs/2504.02469)|null|
+|**2025-04-03**|**Cognitive Memory in Large Language Models**|Lianlei Shan et.al.|[2504.02441](http://arxiv.org/abs/2504.02441)|null|
+|**2025-04-03**|**Robust Randomized Low-Rank Approximation with Row-Wise Outlier Detection**|Aidan Tiruvan et.al.|[2504.02432](http://arxiv.org/abs/2504.02432)|null|
+|**2025-04-03**|**Dislocation-density based crystal plasticity: stability and attractors in slip rate driven processes**|Jalal Smiri et.al.|[2504.02413](http://arxiv.org/abs/2504.02413)|null|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
 |**2025-03-28**|**Experimental measurement of the vorticity-strain alignment around extreme energy transfer events**|Benjamin Musci et.al.|[2503.22627](http://arxiv.org/abs/2503.22627)|null|
 |**2025-03-28**|**Bridging the Dimensional Chasm: Uncover Layer-wise Dimensional Reduction in Transformers through Token Correlation**|Zhuo-Yang Song et.al.|[2503.22547](http://arxiv.org/abs/2503.22547)|null|
