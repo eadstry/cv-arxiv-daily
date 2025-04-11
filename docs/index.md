@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.07
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4471,6 +4471,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression**|Mohsen Jenadeleh et.al.|[2504.06301](http://arxiv.org/abs/2504.06301)|null|
+|**2025-04-07**|**3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model**|Haisheng Fu et.al.|[2504.04658](http://arxiv.org/abs/2504.04658)|null|
+|**2025-04-04**|**Three Forensic Cues for JPEG AI Images**|Sandra Bergmann et.al.|[2504.03191](http://arxiv.org/abs/2504.03191)|null|
 |**2025-04-03**|**Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression**|Lucas Relic et.al.|[2504.02579](http://arxiv.org/abs/2504.02579)|null|
 |**2025-04-02**|**SELIC: Semantic-Enhanced Learned Image Compression via High-Level Textual Guidance**|Haisheng Fu et.al.|[2504.01279](http://arxiv.org/abs/2504.01279)|null|
 |**2025-04-01**|**Learned Image Compression with Dictionary-based Entropy Model**|Jingbo Lu et.al.|[2504.00496](http://arxiv.org/abs/2504.00496)|null|
@@ -4536,6 +4539,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**LVC: A Lightweight Compression Framework for Enhancing VLMs in Long Video Understanding**|Ziyi Wang et.al.|[2504.06835](http://arxiv.org/abs/2504.06835)|null|
+|**2025-04-09**|**FANeRV: Frequency Separation and Augmentation based Neural Representation for Video**|Li Yu et.al.|[2504.06755](http://arxiv.org/abs/2504.06755)|null|
 |**2025-04-03**|**L-LBVC: Long-Term Motion Estimation and Prediction for Learned Bi-Directional Video Compression**|Yongqi Zhai et.al.|[2504.02560](http://arxiv.org/abs/2504.02560)|null|
 |**2025-03-30**|**Enhancing 3D Gaussian Splatting Compression via Spatial Condition-based Prediction**|Jingui Ma et.al.|[2503.23337](http://arxiv.org/abs/2503.23337)|null|
 |**2025-03-29**|**Improved Motion Plane Adaptive 360-Degree Video Compression Using Affine Motion Models**|Marina Ritthaler et.al.|[2503.23151](http://arxiv.org/abs/2503.23151)|null|
@@ -4595,6 +4600,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**FAME: Introducing Fuzzy Additive Models for Explainable AI**|Omer Bahadir Gokmen et.al.|[2504.07011](http://arxiv.org/abs/2504.07011)|null|
+|**2025-04-09**|**Neural Signal Compression using RAMAN tinyML Accelerator for BCI Applications**|Adithya Krishna et.al.|[2504.06996](http://arxiv.org/abs/2504.06996)|null|
+|**2025-04-09**|**SIGMAN:Scaling 3D Human Gaussian Generation with Millions of Assets**|Yuhang Yang et.al.|[2504.06982](http://arxiv.org/abs/2504.06982)|null|
+|**2025-04-09**|**Understanding The Effects of Geotechnical Properties on Viscous Erosion Rate from Plume Surface Interactions**|B. Dotson et.al.|[2504.06944](http://arxiv.org/abs/2504.06944)|null|
+|**2025-04-09**|**On the Compressibility of Integral Operators in Anisotropic Wavelet Coordinates**|Helmut Harbrecht et.al.|[2504.06938](http://arxiv.org/abs/2504.06938)|null|
+|**2025-04-09**|**LVC: A Lightweight Compression Framework for Enhancing VLMs in Long Video Understanding**|Ziyi Wang et.al.|[2504.06835](http://arxiv.org/abs/2504.06835)|null|
+|**2025-04-09**|**CHIME: A Compressive Framework for Holistic Interest Modeling**|Yong Bai et.al.|[2504.06780](http://arxiv.org/abs/2504.06780)|null|
+|**2025-04-09**|**FANeRV: Frequency Separation and Augmentation based Neural Representation for Video**|Li Yu et.al.|[2504.06755](http://arxiv.org/abs/2504.06755)|null|
+|**2025-04-09**|**End-to-end design framework for compressed on-chip pixel-wise spectro-polarimeters**|T. A. Stockmans et.al.|[2504.06724](http://arxiv.org/abs/2504.06724)|null|
+|**2025-04-09**|**Localization of deformation in the central hub of hub-and-spoke kirigami**|Jason Barckicke et.al.|[2504.06626](http://arxiv.org/abs/2504.06626)|null|
 |**2025-04-03**|**Component-wise Krasnosel'skii type fixed point theorem in product spaces and applications**|Laura M Fernández-Pardo et.al.|[2504.02774](http://arxiv.org/abs/2504.02774)|null|
 |**2025-04-03**|**GPTQv2: Efficient Finetuning-Free Quantization for Asymmetric Calibration**|Yuhang Li et.al.|[2504.02692](http://arxiv.org/abs/2504.02692)|null|
 |**2025-04-03**|**Compositionality Unlocks Deep Interpretable Models**|Thomas Dooms et.al.|[2504.02667](http://arxiv.org/abs/2504.02667)|null|
