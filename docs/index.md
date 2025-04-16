@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.14
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4472,7 +4472,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-10**|**Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression**|Mohsen Jenadeleh et.al.|[2504.06301](http://arxiv.org/abs/2504.06301)|null|
-|**2025-04-07**|**3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model**|Haisheng Fu et.al.|[2504.04658](http://arxiv.org/abs/2504.04658)|null|
+|**2025-04-07**|**3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model**|Haisheng Fu et.al.|[2504.04658](http://arxiv.org/abs/2504.04658)|**[link](https://github.com/fengyurenpingsheng/WeConvene)**|
 |**2025-04-04**|**Three Forensic Cues for JPEG AI Images**|Sandra Bergmann et.al.|[2504.03191](http://arxiv.org/abs/2504.03191)|null|
 |**2025-04-03**|**Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression**|Lucas Relic et.al.|[2504.02579](http://arxiv.org/abs/2504.02579)|null|
 |**2025-04-02**|**SELIC: Semantic-Enhanced Learned Image Compression via High-Level Textual Guidance**|Haisheng Fu et.al.|[2504.01279](http://arxiv.org/abs/2504.01279)|null|
@@ -4600,6 +4600,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443](http://arxiv.org/abs/2504.10443)|null|
+|**2025-04-14**|**Fine-Grained Complexity via Quantum Natural Proofs**|Yanlin Chen et.al.|[2504.10363](http://arxiv.org/abs/2504.10363)|null|
+|**2025-04-14**|**ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling**|Dongchao Yang et.al.|[2504.10344](http://arxiv.org/abs/2504.10344)|null|
+|**2025-04-14**|**Optimal Graph Stretching for Distributed Averaging**|Florine W. Dekker et.al.|[2504.10289](http://arxiv.org/abs/2504.10289)|null|
+|**2025-04-14**|**Compressible fluids excited by space-dependent transport noise**|D. Breit et.al.|[2504.10256](http://arxiv.org/abs/2504.10256)|null|
+|**2025-04-14**|**Elastic displacements in wedge-shaped geometries with a straight edge: Green's functions for perpendicular forces**|Abdallah Daddi-Moussa-Ider et.al.|[2504.10239](http://arxiv.org/abs/2504.10239)|null|
+|**2025-04-14**|**Mathematical Justification of a Baer $-$ Nunziato Model for a Compressible Viscous Fluid with Phase Transition**|Christian Rohde et.al.|[2504.10161](http://arxiv.org/abs/2504.10161)|null|
+|**2025-04-14**|**HistLLM: A Unified Framework for LLM-Based Multimodal Recommendation with User History Encoding and Compression**|Chen Zhang et.al.|[2504.10150](http://arxiv.org/abs/2504.10150)|null|
+|**2025-04-14**|**Conditional Distribution Compression via the Kernel Conditional Mean Embedding**|Dominic Broadbent et.al.|[2504.10139](http://arxiv.org/abs/2504.10139)|null|
+|**2025-04-14**|**Local-in-time well-posedness for the regular solution to the 2D full compressible Navier-Stokes equations with degenerate viscosities and heat conductivity**|Yue Cao et.al.|[2504.10094](http://arxiv.org/abs/2504.10094)|null|
 |**2025-04-09**|**FAME: Introducing Fuzzy Additive Models for Explainable AI**|Omer Bahadir Gokmen et.al.|[2504.07011](http://arxiv.org/abs/2504.07011)|null|
 |**2025-04-09**|**Neural Signal Compression using RAMAN tinyML Accelerator for BCI Applications**|Adithya Krishna et.al.|[2504.06996](http://arxiv.org/abs/2504.06996)|null|
 |**2025-04-09**|**SIGMAN:Scaling 3D Human Gaussian Generation with Millions of Assets**|Yuhang Yang et.al.|[2504.06982](http://arxiv.org/abs/2504.06982)|null|
