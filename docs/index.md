@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.28
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4471,6 +4471,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-27**|**MLICv2: Enhanced Multi-Reference Entropy Modeling for Learned Image Compression**|Wei Jiang et.al.|[2504.19119](http://arxiv.org/abs/2504.19119)|null|
 |**2025-04-24**|**Range Image-Based Implicit Neural Compression for LiDAR Point Clouds**|Akihiro Kuwabara et.al.|[2504.17229](http://arxiv.org/abs/2504.17229)|null|
 |**2025-04-22**|**TVC: Tokenized Video Compression with Ultra-Low Bitrate**|Lebin Zhou et.al.|[2504.16953](http://arxiv.org/abs/2504.16953)|null|
 |**2025-04-23**|**Learning Switchable Priors for Neural Image Compression**|Haotian Zhang et.al.|[2504.16586](http://arxiv.org/abs/2504.16586)|null|
@@ -4547,6 +4548,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Neural Stereo Video Compression with Hybrid Disparity Compensation**|Shiyin Jiang et.al.|[2504.20383](http://arxiv.org/abs/2504.20383)|null|
 |**2025-04-22**|**TVC: Tokenized Video Compression with Ultra-Low Bitrate**|Lebin Zhou et.al.|[2504.16953](http://arxiv.org/abs/2504.16953)|null|
 |**2025-04-22**|**Low-Rank Adaptation of Neural Fields**|Anh Truong et.al.|[2504.15933](http://arxiv.org/abs/2504.15933)|null|
 |**2025-04-21**|**Plug-and-Play Versatile Compressed Video Enhancement**|Huimin Zeng et.al.|[2504.15380](http://arxiv.org/abs/2504.15380)|null|
@@ -4612,6 +4614,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning**|Hongfei Xue et.al.|[2504.20835](http://arxiv.org/abs/2504.20835)|null|
+|**2025-04-29**|**Semi-discrete optimal transport techniques for the compressible semi-geostrophic equations**|David P. Bourne et.al.|[2504.20807](http://arxiv.org/abs/2504.20807)|null|
+|**2025-04-29**|**Evaluating Effects of Augmented SELFIES for Molecular Understanding Using QK-LSTM**|Collin Beaudoin et.al.|[2504.20789](http://arxiv.org/abs/2504.20789)|null|
+|**2025-04-29**|**Performance Evaluation of Efficient Hybrid Compression Methods For Devanagiri-Encoded Hindi Text Using Lossless Algorithms**|Mukesh Sahu et.al.|[2504.20747](http://arxiv.org/abs/2504.20747)|null|
+|**2025-04-29**|**Non-Equilibrium Phase Changes in Aircraft Exhaust: A Computational Study on Early Contrail Formation**|Katharina Tegethoff et.al.|[2504.20742](http://arxiv.org/abs/2504.20742)|null|
+|**2025-04-29**|**Handling Large-Scale Network Flow Records: A Comparative Study on Lossy Compression**|Gabriele Merlach et.al.|[2504.20729](http://arxiv.org/abs/2504.20729)|null|
+|**2025-04-29**|**Parametrized Stacked Intelligent Metasurfaces for Bistatic Integrated Sensing and Communications**|Kuranage Roche Rayan Ranasinghe et.al.|[2504.20661](http://arxiv.org/abs/2504.20661)|null|
+|**2025-04-29**|**TrueFake: A Real World Case Dataset of Last Generation Fake Images also Shared on Social Networks**|Stefano Dell'Anna et.al.|[2504.20658](http://arxiv.org/abs/2504.20658)|null|
+|**2025-04-29**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
+|**2025-04-29**|**Molecular gas in cool-core brightest cluster galaxies at $z\simeq0.4$**|G. Castignani et.al.|[2504.20538](http://arxiv.org/abs/2504.20538)|null|
 |**2025-04-24**|**Zeptosecond free-electron compression through temporal lensing**|Xin Jin et.al.|[2504.17770](http://arxiv.org/abs/2504.17770)|null|
 |**2025-04-24**|**Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction**|Farhad Pourkamali-Anaraki et.al.|[2504.17655](http://arxiv.org/abs/2504.17655)|null|
 |**2025-04-24**|**Integrated Sensing and Communications for Unsourced Random Access: A Spectrum Sharing Compressive Sensing Approach**|Zhentian Zhang et.al.|[2504.17629](http://arxiv.org/abs/2504.17629)|null|
