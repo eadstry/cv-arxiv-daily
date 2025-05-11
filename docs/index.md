@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.06
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4471,13 +4471,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Gone With the Bits: Revealing Racial Bias in Low-Rate Neural Compression for Facial Images**|Tian Qiu et.al.|[2505.02949](http://arxiv.org/abs/2505.02949)|null|
+|**2025-05-03**|**Easz: An Agile Transformer-based Image Compression Framework for Resource-constrained IoTs**|Yu Mao et.al.|[2505.01742](http://arxiv.org/abs/2505.01742)|null|
 |**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814](http://arxiv.org/abs/2504.21814)|null|
 |**2025-04-30**|**LoC-LIC: Low Complexity Learned Image Coding Using Hierarchical Feature Transforms**|Ayman A. Ameen et.al.|[2504.21778](http://arxiv.org/abs/2504.21778)|null|
 |**2025-04-27**|**MLICv2: Enhanced Multi-Reference Entropy Modeling for Learned Image Compression**|Wei Jiang et.al.|[2504.19119](http://arxiv.org/abs/2504.19119)|null|
 |**2025-04-24**|**Range Image-Based Implicit Neural Compression for LiDAR Point Clouds**|Akihiro Kuwabara et.al.|[2504.17229](http://arxiv.org/abs/2504.17229)|null|
 |**2025-04-22**|**TVC: Tokenized Video Compression with Ultra-Low Bitrate**|Lebin Zhou et.al.|[2504.16953](http://arxiv.org/abs/2504.16953)|null|
 |**2025-04-23**|**Learning Switchable Priors for Neural Image Compression**|Haotian Zhang et.al.|[2504.16586](http://arxiv.org/abs/2504.16586)|null|
-|**2025-04-18**|**LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**|Ali Hojjat et.al.|[2504.13736](http://arxiv.org/abs/2504.13736)|null|
+|**2025-04-18**|**LimitNet: Progressive, Content-Aware Image Offloading for Extremely Weak Devices & Networks**|Ali Hojjat et.al.|[2504.13736](http://arxiv.org/abs/2504.13736)|**[link](https://github.com/ds-kiel/LimitNet)**|
 |**2025-04-12**|**Universal Representations for Classification-enhanced Lossy Compression**|Nam Nguyen et.al.|[2504.13191](http://arxiv.org/abs/2504.13191)|null|
 |**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997](http://arxiv.org/abs/2504.12997)|null|
 |**2025-04-17**|**Efficient Masked Image Compression with Position-Indexed Self-Attention**|Chengjie Dai et.al.|[2504.12923](http://arxiv.org/abs/2504.12923)|null|
@@ -4619,6 +4621,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
+|**2025-05-08**|**EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation**|Biao Yi et.al.|[2505.05440](http://arxiv.org/abs/2505.05440)|null|
+|**2025-05-08**|**Theoretical modeling of approximate universality of tidally deformed neutron stars**|Takuya Katagiri et.al.|[2505.05429](http://arxiv.org/abs/2505.05429)|null|
+|**2025-05-08**|**DPQ-HD: Post-Training Compression for Ultra-Low Power Hyperdimensional Computing**|Nilesh Prasad Pandey et.al.|[2505.05413](http://arxiv.org/abs/2505.05413)|null|
+|**2025-05-08**|**Dynamic injection of a compressible gas into a confined porous layer**|Peter Castellucci et.al.|[2505.05412](http://arxiv.org/abs/2505.05412)|null|
+|**2025-05-08**|**Augmented Deep Contexts for Spatially Embedded Video Coding**|Yifan Bian et.al.|[2505.05309](http://arxiv.org/abs/2505.05309)|**[link](https://github.com/esakak/sevc)**|
+|**2025-05-08**|**Diffusion Model Quantization: A Review**|Qian Zeng et.al.|[2505.05215](http://arxiv.org/abs/2505.05215)|null|
+|**2025-05-08**|**Smoothed analysis in compressed sensing**|Elad Aigner-Horev et.al.|[2505.05188](http://arxiv.org/abs/2505.05188)|null|
+|**2025-05-08**|**Stochastic Variational Propagation: Local, Scalable and Efficient Alternative to Backpropagation**|Bojian Yin et.al.|[2505.05181](http://arxiv.org/abs/2505.05181)|null|
+|**2025-05-08**|**Superconducting susceptibility signal captured in a record wide pressure range**|Shu Cai et.al.|[2505.05176](http://arxiv.org/abs/2505.05176)|null|
 |**2025-05-02**|**Phase-field modeling of elastic microphase separation**|Hamza Oudich et.al.|[2505.01389](http://arxiv.org/abs/2505.01389)|null|
 |**2025-05-02**|**Asymptotic Linear Convergence of ADMM for Isotropic TV Norm Compressed Sensing**|Emmanuel Gil Torres et.al.|[2505.01240](http://arxiv.org/abs/2505.01240)|null|
 |**2025-05-02**|**BS-tree: A gapped data-parallel B-tree**|Dimitrios Tsitsigkos. Achilleas Michalopoulos et.al.|[2505.01180](http://arxiv.org/abs/2505.01180)|null|
