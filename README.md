@@ -1,4 +1,4 @@
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -880,7 +880,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## SFM
 
@@ -1251,7 +1251,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2350,7 +2350,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2643,7 +2643,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2957,7 +2957,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## NeRF
 
@@ -4488,7 +4488,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Image Compression
 
@@ -4507,7 +4507,7 @@
 |**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997](http://arxiv.org/abs/2504.12997)|null|
 |**2025-04-17**|**Efficient Masked Image Compression with Position-Indexed Self-Attention**|Chengjie Dai et.al.|[2504.12923](http://arxiv.org/abs/2504.12923)|null|
 |**2025-04-15**|**Randomized block proximal method with locally Lipschitz continuous gradient**|Pedro Pérez-Aros et.al.|[2504.11410](http://arxiv.org/abs/2504.11410)|**[link](https://github.com/davidtbelen/arbpg)**|
-|**2025-04-10**|**Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression**|Mohsen Jenadeleh et.al.|[2504.06301](http://arxiv.org/abs/2504.06301)|null|
+|**2025-04-10**|**Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression**|Mohsen Jenadeleh et.al.|[2504.06301](http://arxiv.org/abs/2504.06301)|**[link](https://github.com/jpeg-aic/dataset-jpeg-ai-sdr25)**|
 |**2025-04-07**|**3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model**|Haisheng Fu et.al.|[2504.04658](http://arxiv.org/abs/2504.04658)|**[link](https://github.com/fengyurenpingsheng/WeConvene)**|
 |**2025-04-04**|**Three Forensic Cues for JPEG AI Images**|Sandra Bergmann et.al.|[2504.03191](http://arxiv.org/abs/2504.03191)|null|
 |**2025-04-03**|**Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression**|Lucas Relic et.al.|[2504.02579](http://arxiv.org/abs/2504.02579)|null|
@@ -4534,7 +4534,7 @@
 |**2025-03-14**|**Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization**|Kyle Sargent et.al.|[2503.11056](http://arxiv.org/abs/2503.11056)|null|
 |**2025-03-13**|**JPEG Compliant Compression for Both Human and Machine, A Report**|Linfeng Ye et.al.|[2503.10912](http://arxiv.org/abs/2503.10912)|null|
 |**2025-03-12**|**PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling**|Nikolai Körber et.al.|[2503.09368](http://arxiv.org/abs/2503.09368)|**[link](https://github.com/nikolai10/percov2)**|
-|**2025-03-11**|**Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing**|Chen Liao et.al.|[2503.08429](http://arxiv.org/abs/2503.08429)|null|
+|**2025-03-11**|**Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing**|Chen Liao et.al.|[2503.08429](http://arxiv.org/abs/2503.08429)|**[link](https://github.com/fengodchen/dmp-dun-cvpr2025)**|
 |**2025-03-09**|**Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform**|Chenyu Huang et.al.|[2503.06676](http://arxiv.org/abs/2503.06676)|null|
 |**2025-03-12**|**FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression**|Haisheng Fu et.al.|[2503.06399](http://arxiv.org/abs/2503.06399)|null|
 |**2025-03-13**|**Security and Real-time FPGA integration for Learned Image Compression**|Alaa Mazouz et.al.|[2503.04867](http://arxiv.org/abs/2503.04867)|null|
@@ -4571,7 +4571,7 @@
 |**2025-02-10**|**Compressed Image Generation with Denoising Diffusion Codebook Models**|Guy Ohayon et.al.|[2502.01189](http://arxiv.org/abs/2502.01189)|null|
 |**2025-03-24**|**S2CFormer: Revisiting the RD-Latency Trade-off in Transformer-based Learned Image Compression**|Yunuo Chen et.al.|[2502.00700](http://arxiv.org/abs/2502.00700)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Video Compression
 
@@ -4642,7 +4642,7 @@
 |**2024-10-15**|**Fast Encoding and Decoding for Implicit Video Representation**|Hao Chen et.al.|[2409.19429](http://arxiv.org/abs/2409.19429)|null|
 |**2024-10-13**|**Neural Video Representation for Redundancy Reduction and Consistency Preservation**|Taiga Hayami et.al.|[2409.18497](http://arxiv.org/abs/2409.18497)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 ## Other Compression
 
@@ -4667,7 +4667,7 @@
 |**2025-05-01**|**Bayesian inferences on covariant density functionals from multimessenger astrophysical data: The impacts of likelihood functions of low density matter constraints**|Jia-Jie Li et.al.|[2505.00911](http://arxiv.org/abs/2505.00911)|null|
 |**2025-05-01**|**Physics-Informed Neural Network-Driven Sparse Field Discretization Method for Near-Field Acoustic Holography**|Xinmeng Luan et.al.|[2505.00897](http://arxiv.org/abs/2505.00897)|null|
 |**2025-05-01**|**ICQuant: Index Coding enables Low-bit LLM Quantization**|Xinlin Li et.al.|[2505.00850](http://arxiv.org/abs/2505.00850)|null|
-|**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|null|
+|**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|**[link](https://github.com/elvin-yiming-du/survey_memory_in_ai)**|
 |**2025-04-29**|**Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning**|Hongfei Xue et.al.|[2504.20835](http://arxiv.org/abs/2504.20835)|null|
 |**2025-04-29**|**Semi-discrete optimal transport techniques for the compressible semi-geostrophic equations**|David P. Bourne et.al.|[2504.20807](http://arxiv.org/abs/2504.20807)|null|
 |**2025-04-29**|**Evaluating Effects of Augmented SELFIES for Molecular Understanding Using QK-LSTM**|Collin Beaudoin et.al.|[2504.20789](http://arxiv.org/abs/2504.20789)|null|
@@ -4799,7 +4799,7 @@
 |**2025-03-21**|**Property of downstream turbulence driven by the special relativistic shock-clump interaction**|Kanji Morikawa et.al.|[2503.16899](http://arxiv.org/abs/2503.16899)|null|
 |**2025-03-21**|**A note on the existence of self-similar profiles of the hydrodynamic formulation of the focusing nonlinear Schrödinger equation**|Gonzalo Cao-Labora et.al.|[2503.16813](http://arxiv.org/abs/2503.16813)|null|
 
-<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

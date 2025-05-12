@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4484,7 +4484,7 @@ layout: default
 |**2025-04-17**|**All-in-One Transferring Image Compression from Human Perception to Multi-Machine Perception**|Jiancheng Zhao et.al.|[2504.12997](http://arxiv.org/abs/2504.12997)|null|
 |**2025-04-17**|**Efficient Masked Image Compression with Position-Indexed Self-Attention**|Chengjie Dai et.al.|[2504.12923](http://arxiv.org/abs/2504.12923)|null|
 |**2025-04-15**|**Randomized block proximal method with locally Lipschitz continuous gradient**|Pedro Pérez-Aros et.al.|[2504.11410](http://arxiv.org/abs/2504.11410)|**[link](https://github.com/davidtbelen/arbpg)**|
-|**2025-04-10**|**Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression**|Mohsen Jenadeleh et.al.|[2504.06301](http://arxiv.org/abs/2504.06301)|null|
+|**2025-04-10**|**Subjective Visual Quality Assessment for High-Fidelity Learning-Based Image Compression**|Mohsen Jenadeleh et.al.|[2504.06301](http://arxiv.org/abs/2504.06301)|**[link](https://github.com/jpeg-aic/dataset-jpeg-ai-sdr25)**|
 |**2025-04-07**|**3DM-WeConvene: Learned Image Compression with 3D Multi-Level Wavelet-Domain Convolution and Entropy Model**|Haisheng Fu et.al.|[2504.04658](http://arxiv.org/abs/2504.04658)|**[link](https://github.com/fengyurenpingsheng/WeConvene)**|
 |**2025-04-04**|**Three Forensic Cues for JPEG AI Images**|Sandra Bergmann et.al.|[2504.03191](http://arxiv.org/abs/2504.03191)|null|
 |**2025-04-03**|**Bridging the Gap between Gaussian Diffusion Models and Universal Quantization for Image Compression**|Lucas Relic et.al.|[2504.02579](http://arxiv.org/abs/2504.02579)|null|
@@ -4511,7 +4511,7 @@ layout: default
 |**2025-03-14**|**Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization**|Kyle Sargent et.al.|[2503.11056](http://arxiv.org/abs/2503.11056)|null|
 |**2025-03-13**|**JPEG Compliant Compression for Both Human and Machine, A Report**|Linfeng Ye et.al.|[2503.10912](http://arxiv.org/abs/2503.10912)|null|
 |**2025-03-12**|**PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling**|Nikolai Körber et.al.|[2503.09368](http://arxiv.org/abs/2503.09368)|**[link](https://github.com/nikolai10/percov2)**|
-|**2025-03-11**|**Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing**|Chen Liao et.al.|[2503.08429](http://arxiv.org/abs/2503.08429)|null|
+|**2025-03-11**|**Using Powerful Prior Knowledge of Diffusion Model in Deep Unfolding Networks for Image Compressive Sensing**|Chen Liao et.al.|[2503.08429](http://arxiv.org/abs/2503.08429)|**[link](https://github.com/fengodchen/dmp-dun-cvpr2025)**|
 |**2025-03-09**|**Seeing Delta Parameters as JPEG Images: Data-Free Delta Compression with Discrete Cosine Transform**|Chenyu Huang et.al.|[2503.06676](http://arxiv.org/abs/2503.06676)|null|
 |**2025-03-12**|**FEDS: Feature and Entropy-Based Distillation Strategy for Efficient Learned Image Compression**|Haisheng Fu et.al.|[2503.06399](http://arxiv.org/abs/2503.06399)|null|
 |**2025-03-13**|**Security and Real-time FPGA integration for Learned Image Compression**|Alaa Mazouz et.al.|[2503.04867](http://arxiv.org/abs/2503.04867)|null|
@@ -4640,7 +4640,7 @@ layout: default
 |**2025-05-01**|**Bayesian inferences on covariant density functionals from multimessenger astrophysical data: The impacts of likelihood functions of low density matter constraints**|Jia-Jie Li et.al.|[2505.00911](http://arxiv.org/abs/2505.00911)|null|
 |**2025-05-01**|**Physics-Informed Neural Network-Driven Sparse Field Discretization Method for Near-Field Acoustic Holography**|Xinmeng Luan et.al.|[2505.00897](http://arxiv.org/abs/2505.00897)|null|
 |**2025-05-01**|**ICQuant: Index Coding enables Low-bit LLM Quantization**|Xinlin Li et.al.|[2505.00850](http://arxiv.org/abs/2505.00850)|null|
-|**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|null|
+|**2025-05-01**|**Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions**|Yiming Du et.al.|[2505.00675](http://arxiv.org/abs/2505.00675)|**[link](https://github.com/elvin-yiming-du/survey_memory_in_ai)**|
 |**2025-04-29**|**Enhancing Non-Core Language Instruction-Following in Speech LLMs via Semi-Implicit Cross-Lingual CoT Reasoning**|Hongfei Xue et.al.|[2504.20835](http://arxiv.org/abs/2504.20835)|null|
 |**2025-04-29**|**Semi-discrete optimal transport techniques for the compressible semi-geostrophic equations**|David P. Bourne et.al.|[2504.20807](http://arxiv.org/abs/2504.20807)|null|
 |**2025-04-29**|**Evaluating Effects of Augmented SELFIES for Molecular Understanding Using QK-LSTM**|Collin Beaudoin et.al.|[2504.20789](http://arxiv.org/abs/2504.20789)|null|
