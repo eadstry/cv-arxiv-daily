@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4471,9 +4471,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Synonymous Variational Inference for Perceptual Image Compression**|Zijian Liang et.al.|[2505.22438](http://arxiv.org/abs/2505.22438)|null|
+|**2025-05-27**|**Generative Image Compression by Estimating Gradients of the Rate-variable Feature Distribution**|Minghao Han et.al.|[2505.20984](http://arxiv.org/abs/2505.20984)|null|
+|**2025-05-26**|**TokBench: Evaluating Your Visual Tokenizer before Visual Generation**|Junfeng Wu et.al.|[2505.18142](http://arxiv.org/abs/2505.18142)|null|
+|**2025-05-23**|**Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**|Yichi Zhang et.al.|[2505.18107](http://arxiv.org/abs/2505.18107)|null|
+|**2025-05-29**|**Low-Rank Adaptation of Pre-trained Vision Backbones for Energy-Efficient Image Coding for Machine**|Yichi Zhang et.al.|[2505.17366](http://arxiv.org/abs/2505.17366)|null|
 |**2025-05-22**|**One-Step Diffusion-Based Image Compression with Semantic Distillation**|Naifu Xue et.al.|[2505.16687](http://arxiv.org/abs/2505.16687)|null|
 |**2025-05-22**|**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression**|Linfeng Qi et.al.|[2505.16177](http://arxiv.org/abs/2505.16177)|null|
-|**2025-05-22**|**OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates**|Jinpei Guo et.al.|[2505.16091](http://arxiv.org/abs/2505.16091)|**[link](https://github.com/jp-guo/oscar)**|
+|**2025-05-28**|**OSCAR: One-Step Diffusion Codec for Image Compression Across Multiple Bit-rates**|Jinpei Guo et.al.|[2505.16091](http://arxiv.org/abs/2505.16091)|**[link](https://github.com/jp-guo/oscar)**|
 |**2025-05-21**|**Combining Progressive Image Compression and Random Access in DNA Data Storage**|Xavier Pic et.al.|[2505.15632](http://arxiv.org/abs/2505.15632)|null|
 |**2025-05-19**|**GANCompress: GAN-Enhanced Neural Image Compression with Binary Spherical Quantization**|Karthik Sivakoti et.al.|[2505.13542](http://arxiv.org/abs/2505.13542)|null|
 |**2025-05-19**|**Higher fidelity perceptual image and video compression with a latent conditioned residual denoising diffusion model**|Jonas Brenig et.al.|[2505.13152](http://arxiv.org/abs/2505.13152)|**[link](https://github.com/jbrenig/rescdc)**|
@@ -4562,6 +4567,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Highly Efficient Non-Separable Transforms for Next Generation Video Coding**|Amir Said et.al.|[2505.21728](http://arxiv.org/abs/2505.21728)|null|
+|**2025-05-28**|**HoliTom: Holistic Token Merging for Fast Video Large Language Models**|Kele Shao et.al.|[2505.21334](http://arxiv.org/abs/2505.21334)|null|
 |**2025-05-22**|**Generative Latent Coding for Ultra-Low Bitrate Image and Video Compression**|Linfeng Qi et.al.|[2505.16177](http://arxiv.org/abs/2505.16177)|null|
 |**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558](http://arxiv.org/abs/2505.15558)|null|
 |**2025-05-20**|**Neural Video Compression with Context Modulation**|Chuanbo Tang et.al.|[2505.14541](http://arxiv.org/abs/2505.14541)|null|
@@ -4638,6 +4645,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**REOrdering Patches Improves Vision Models**|Declan Kutscher et.al.|[2505.23751](http://arxiv.org/abs/2505.23751)|null|
+|**2025-05-29**|**ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**|Weijie Wang et.al.|[2505.23734](http://arxiv.org/abs/2505.23734)|**[link](https://github.com/ziplab/ZPressor)**|
+|**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727](http://arxiv.org/abs/2505.23727)|null|
+|**2025-05-29**|**MuLoCo: Muon is a practical inner optimizer for DiLoCo**|Benjamin Thérien et.al.|[2505.23725](http://arxiv.org/abs/2505.23725)|null|
+|**2025-05-29**|**Fast Compressed-Domain N-Point Discrete Fourier Transform**|Saulo Queiroz et.al.|[2505.23718](http://arxiv.org/abs/2505.23718)|null|
+|**2025-05-29**|**Weak solutions to a full compressible magnetohydrodynamic flow interacting with thermoelastic structure**|Kuntal Bhandari et.al.|[2505.23539](http://arxiv.org/abs/2505.23539)|null|
+|**2025-05-29**|**Quasi-Periodic Optical Key-Enabled Hybrid Cryptography: Merging Diffractive Physics and Deep Learning for High-Dimensional Security**|Haiqi Gao et.al.|[2505.23479](http://arxiv.org/abs/2505.23479)|null|
+|**2025-05-29**|**A Mathematical Framework for AI-Human Integration in Work**|Elisa Celis et.al.|[2505.23432](http://arxiv.org/abs/2505.23432)|null|
+|**2025-05-29**|**KVzip: Query-Agnostic KV Cache Compression with Context Reconstruction**|Jang-Hyun Kim et.al.|[2505.23416](http://arxiv.org/abs/2505.23416)|null|
+|**2025-05-29**|**Joint Data Hiding and Partial Encryption of Compressive Sensed Streams**|Cristina-Elena Popa et.al.|[2505.23357](http://arxiv.org/abs/2505.23357)|null|
 |**2025-05-22**|**CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms**|Shilin Yan et.al.|[2505.17020](http://arxiv.org/abs/2505.17020)|**[link](https://github.com/shilinyan99/crosslmm)**|
 |**2025-05-22**|**On Multilingual Encoder Language Model Compression for Low-Resource Languages**|Daniil Gurgurov et.al.|[2505.16956](http://arxiv.org/abs/2505.16956)|null|
 |**2025-05-22**|**Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalised Reasoning**|Adnan Oomerjee et.al.|[2505.16950](http://arxiv.org/abs/2505.16950)|null|
