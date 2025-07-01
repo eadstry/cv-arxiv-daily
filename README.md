@@ -1,4 +1,4 @@
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -880,7 +880,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## SFM
 
@@ -1251,7 +1251,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2350,7 +2350,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2643,7 +2643,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2957,7 +2957,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## NeRF
 
@@ -4488,12 +4488,14 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Image Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
+|**2025-06-27**|**End-to-End RGB-IR Joint Image Compression With Channel-wise Cross-modality Entropy Model**|Haofeng Wang et.al.|[2506.21851](http://arxiv.org/abs/2506.21851)|null|
 |**2025-06-24**|**Explicit Residual-Based Scalable Image Coding for Humans and Machines**|Yui Tatsumi et.al.|[2506.19297](http://arxiv.org/abs/2506.19297)|null|
 |**2025-06-23**|**NIC-RobustBench: A Comprehensive Open-Source Toolkit for Neural Image Compression and Robustness Analysis**|Georgii Bychkov et.al.|[2506.19051](http://arxiv.org/abs/2506.19051)|null|
 |**2025-06-25**|**LVPNet: A Latent-variable-based Prediction-driven End-to-end Framework for Lossless Compression of Medical Images**|Chenyue Song et.al.|[2506.17983](http://arxiv.org/abs/2506.17983)|null|
@@ -4601,7 +4603,7 @@
 |**2025-02-10**|**Compressed Image Generation with Denoising Diffusion Codebook Models**|Guy Ohayon et.al.|[2502.01189](http://arxiv.org/abs/2502.01189)|null|
 |**2025-03-24**|**S2CFormer: Revisiting the RD-Latency Trade-off in Transformer-based Learned Image Compression**|Yunuo Chen et.al.|[2502.00700](http://arxiv.org/abs/2502.00700)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Video Compression
 
@@ -4688,12 +4690,22 @@
 |**2024-10-15**|**Fast Encoding and Decoding for Implicit Video Representation**|Hao Chen et.al.|[2409.19429](http://arxiv.org/abs/2409.19429)|null|
 |**2024-10-13**|**Neural Video Representation for Redundancy Reduction and Consistency Preservation**|Taiga Hayami et.al.|[2409.18497](http://arxiv.org/abs/2409.18497)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Other Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations**|Arun Govind Neelan et.al.|[2506.22413](http://arxiv.org/abs/2506.22413)|null|
+|**2025-06-27**|**HLTCOE at LiveRAG: GPT-Researcher using ColBERT retrieval**|Kevin Duh et.al.|[2506.22356](http://arxiv.org/abs/2506.22356)|null|
+|**2025-06-27**|**Projected Compression: Trainable Projection for Efficient Transformer Compression**|Maciej Stefaniak et.al.|[2506.22255](http://arxiv.org/abs/2506.22255)|null|
+|**2025-06-27**|**Two types of compressible isotropic neo-Hookean material models**|Sergey N. Korobeynikov et.al.|[2506.22244](http://arxiv.org/abs/2506.22244)|null|
+|**2025-06-27**|**Global regularity and incompressible limit of 2D compressible Navier-Stokes equations with large bulk viscosity**|Shengquan Liu et.al.|[2506.22235](http://arxiv.org/abs/2506.22235)|null|
+|**2025-06-27**|**dreaMLearning: Data Compression Assisted Machine Learning**|Xiaobo Zhao et.al.|[2506.22190](http://arxiv.org/abs/2506.22190)|null|
+|**2025-06-27**|**MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**|Dechao Meng et.al.|[2506.22065](http://arxiv.org/abs/2506.22065)|null|
+|**2025-06-27**|**Towards Universal & Efficient Model Compression via Exponential Torque Pruning**|Sarthak Ketanbhai Modi et.al.|[2506.22015](http://arxiv.org/abs/2506.22015)|null|
+|**2025-06-27**|**Generation of high power spatially-structured laser pulses via forward Raman amplification in plasma**|Zhi-Yu Lei et.al.|[2506.21979](http://arxiv.org/abs/2506.21979)|null|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
 |**2025-06-24**|**Non-Gaussian statistics in galaxy weak lensing: compressed three-point correlations and cosmological forecasts**|Sofia Samario-Nava et.al.|[2506.19811](http://arxiv.org/abs/2506.19811)|null|
 |**2025-06-24**|**Ambiguous Online Learning**|Vanessa Kosoy et.al.|[2506.19810](http://arxiv.org/abs/2506.19810)|null|
 |**2025-06-24**|**Singular limits of anisotropic weak solutions to compressible magnetohydrodynamics**|Nicolas Besse et.al.|[2506.19784](http://arxiv.org/abs/2506.19784)|null|
@@ -4935,7 +4947,7 @@
 |**2025-03-21**|**Property of downstream turbulence driven by the special relativistic shock-clump interaction**|Kanji Morikawa et.al.|[2503.16899](http://arxiv.org/abs/2503.16899)|null|
 |**2025-03-21**|**A note on the existence of self-similar profiles of the hydrodynamic formulation of the focusing nonlinear Schrödinger equation**|Gonzalo Cao-Labora et.al.|[2503.16813](http://arxiv.org/abs/2503.16813)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

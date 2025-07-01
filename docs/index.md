@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4471,6 +4471,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
+|**2025-06-27**|**End-to-End RGB-IR Joint Image Compression With Channel-wise Cross-modality Entropy Model**|Haofeng Wang et.al.|[2506.21851](http://arxiv.org/abs/2506.21851)|null|
 |**2025-06-24**|**Explicit Residual-Based Scalable Image Coding for Humans and Machines**|Yui Tatsumi et.al.|[2506.19297](http://arxiv.org/abs/2506.19297)|null|
 |**2025-06-23**|**NIC-RobustBench: A Comprehensive Open-Source Toolkit for Neural Image Compression and Robustness Analysis**|Georgii Bychkov et.al.|[2506.19051](http://arxiv.org/abs/2506.19051)|null|
 |**2025-06-25**|**LVPNet: A Latent-variable-based Prediction-driven End-to-end Framework for Lossless Compression of Medical Images**|Chenyue Song et.al.|[2506.17983](http://arxiv.org/abs/2506.17983)|null|
@@ -4667,6 +4669,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations**|Arun Govind Neelan et.al.|[2506.22413](http://arxiv.org/abs/2506.22413)|null|
+|**2025-06-27**|**HLTCOE at LiveRAG: GPT-Researcher using ColBERT retrieval**|Kevin Duh et.al.|[2506.22356](http://arxiv.org/abs/2506.22356)|null|
+|**2025-06-27**|**Projected Compression: Trainable Projection for Efficient Transformer Compression**|Maciej Stefaniak et.al.|[2506.22255](http://arxiv.org/abs/2506.22255)|null|
+|**2025-06-27**|**Two types of compressible isotropic neo-Hookean material models**|Sergey N. Korobeynikov et.al.|[2506.22244](http://arxiv.org/abs/2506.22244)|null|
+|**2025-06-27**|**Global regularity and incompressible limit of 2D compressible Navier-Stokes equations with large bulk viscosity**|Shengquan Liu et.al.|[2506.22235](http://arxiv.org/abs/2506.22235)|null|
+|**2025-06-27**|**dreaMLearning: Data Compression Assisted Machine Learning**|Xiaobo Zhao et.al.|[2506.22190](http://arxiv.org/abs/2506.22190)|null|
+|**2025-06-27**|**MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**|Dechao Meng et.al.|[2506.22065](http://arxiv.org/abs/2506.22065)|null|
+|**2025-06-27**|**Towards Universal & Efficient Model Compression via Exponential Torque Pruning**|Sarthak Ketanbhai Modi et.al.|[2506.22015](http://arxiv.org/abs/2506.22015)|null|
+|**2025-06-27**|**Generation of high power spatially-structured laser pulses via forward Raman amplification in plasma**|Zhi-Yu Lei et.al.|[2506.21979](http://arxiv.org/abs/2506.21979)|null|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
 |**2025-06-24**|**Non-Gaussian statistics in galaxy weak lensing: compressed three-point correlations and cosmological forecasts**|Sofia Samario-Nava et.al.|[2506.19811](http://arxiv.org/abs/2506.19811)|null|
 |**2025-06-24**|**Ambiguous Online Learning**|Vanessa Kosoy et.al.|[2506.19810](http://arxiv.org/abs/2506.19810)|null|
 |**2025-06-24**|**Singular limits of anisotropic weak solutions to compressible magnetohydrodynamics**|Nicolas Besse et.al.|[2506.19784](http://arxiv.org/abs/2506.19784)|null|
