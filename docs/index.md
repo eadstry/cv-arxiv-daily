@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4471,6 +4471,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-01**|**LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression**|Haotian Wu et.al.|[2507.01204](http://arxiv.org/abs/2507.01204)|null|
+|**2025-07-03**|**Customizable ROI-Based Deep Image Compression**|Jian Jin et.al.|[2507.00373](http://arxiv.org/abs/2507.00373)|null|
+|**2025-06-28**|**A Novel Adaptive Low-Rank Matrix Approximation Method for Image Compression and Reconstruction**|Weiwei Xu et.al.|[2506.22713](http://arxiv.org/abs/2506.22713)|null|
 |**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
 |**2025-06-27**|**End-to-End RGB-IR Joint Image Compression With Channel-wise Cross-modality Entropy Model**|Haofeng Wang et.al.|[2506.21851](http://arxiv.org/abs/2506.21851)|null|
 |**2025-06-24**|**Explicit Residual-Based Scalable Image Coding for Humans and Machines**|Yui Tatsumi et.al.|[2506.19297](http://arxiv.org/abs/2506.19297)|null|
@@ -4584,6 +4587,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
+|**2025-06-29**|**SIEDD: Shared-Implicit Encoder with Discrete Decoders**|Vikram Rangarajan et.al.|[2506.23382](http://arxiv.org/abs/2506.23382)|null|
 |**2025-06-24**|**Video Compression for Spatiotemporal Earth System Data**|Oscar J. Pellicer-Valero et.al.|[2506.19656](http://arxiv.org/abs/2506.19656)|null|
 |**2025-06-18**|**MSNeRV: Neural Video Representation with Multi-Scale Feature Fusion**|Jun Zhu et.al.|[2506.15276](http://arxiv.org/abs/2506.15276)|null|
 |**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419](http://arxiv.org/abs/2506.13419)|null|
@@ -4669,6 +4674,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
+|**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|
+|**2025-07-03**|**Indexing Tries within Entropy-Bounded Space**|Lorenzo Carfagna et.al.|[2507.02728](http://arxiv.org/abs/2507.02728)|null|
+|**2025-07-03**|**Pressure-induced band gap energy increase in crystalline lactose**|Igor A. Fedorov et.al.|[2507.02629](http://arxiv.org/abs/2507.02629)|null|
+|**2025-07-03**|**Lost in Latent Space: An Empirical Study of Latent Diffusion Models for Physics Emulation**|François Rozet et.al.|[2507.02608](http://arxiv.org/abs/2507.02608)|null|
+|**2025-07-03**|**Zeptosecond Electron Pulse Train and Ultrafast Coherent Control of Quantum States via Multiphoton Inelastic Cherenkov Diffraction**|H. K. Avetissian et.al.|[2507.02587](http://arxiv.org/abs/2507.02587)|null|
+|**2025-07-03**|**Scalable Interconnect Learning in Boolean Networks**|Fabian Kresse et.al.|[2507.02585](http://arxiv.org/abs/2507.02585)|null|
+|**2025-07-03**|**Long-time Existence and Incompressible Limit of Weak and Classical Solutions to the Cauchy Problem for Compressible Navier-Stokes Equations with Large Bulk Viscosity Coefficient and Large Initial Data**|Qinghao Lei et.al.|[2507.02497](http://arxiv.org/abs/2507.02497)|null|
+|**2025-07-03**|**Intrinsic Dimensionality of Molecular Properties**|Ali Banjafar et.al.|[2507.02480](http://arxiv.org/abs/2507.02480)|null|
+|**2025-07-03**|**Mesh Silksong: Auto-Regressive Mesh Generation as Weaving Silk**|Gaochao Song et.al.|[2507.02477](http://arxiv.org/abs/2507.02477)|null|
 |**2025-06-27**|**Physics-Informed Neural Networks: Bridging the Divide Between Conservative and Non-Conservative Equations**|Arun Govind Neelan et.al.|[2506.22413](http://arxiv.org/abs/2506.22413)|null|
 |**2025-06-27**|**HLTCOE at LiveRAG: GPT-Researcher using ColBERT retrieval**|Kevin Duh et.al.|[2506.22356](http://arxiv.org/abs/2506.22356)|null|
 |**2025-06-27**|**Projected Compression: Trainable Projection for Efficient Transformer Compression**|Maciej Stefaniak et.al.|[2506.22255](http://arxiv.org/abs/2506.22255)|null|
