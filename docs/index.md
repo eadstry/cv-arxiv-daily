@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4471,6 +4471,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Assessing Learned Models for Phase-only Hologram Compression**|Zicong Peng et.al.|[2507.06646](http://arxiv.org/abs/2507.06646)|null|
+|**2025-07-08**|**Optimization of Fractal Image Compression**|Nastaran Pourshab et.al.|[2507.06325](http://arxiv.org/abs/2507.06325)|null|
 |**2025-07-01**|**LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression**|Haotian Wu et.al.|[2507.01204](http://arxiv.org/abs/2507.01204)|null|
 |**2025-07-03**|**Customizable ROI-Based Deep Image Compression**|Jian Jin et.al.|[2507.00373](http://arxiv.org/abs/2507.00373)|null|
 |**2025-06-28**|**A Novel Adaptive Low-Rank Matrix Approximation Method for Image Compression and Reconstruction**|Weiwei Xu et.al.|[2506.22713](http://arxiv.org/abs/2506.22713)|null|
@@ -4587,6 +4589,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594](http://arxiv.org/abs/2507.05594)|null|
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
 |**2025-06-29**|**SIEDD: Shared-Implicit Encoder with Discrete Decoders**|Vikram Rangarajan et.al.|[2506.23382](http://arxiv.org/abs/2506.23382)|null|
 |**2025-06-24**|**Video Compression for Spatiotemporal Earth System Data**|Oscar J. Pellicer-Valero et.al.|[2506.19656](http://arxiv.org/abs/2506.19656)|null|
@@ -4674,6 +4677,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Compressibility of Confined Fluids from Volume Fluctuations**|Jason Ogbebor et.al.|[2507.07020](http://arxiv.org/abs/2507.07020)|null|
+|**2025-07-09**|**Generating Multi-Table Time Series EHR from Latent Space with Minimal Preprocessing**|Eunbyeol Cho et.al.|[2507.06996](http://arxiv.org/abs/2507.06996)|null|
+|**2025-07-09**|**HVI-CIDNet+: Beyond Extreme Darkness for Low-Light Image Enhancement**|Qingsen Yan et.al.|[2507.06814](http://arxiv.org/abs/2507.06814)|null|
+|**2025-07-09**|**StixelNExT++: Lightweight Monocular Scene Segmentation and Representation for Collective Perception**|Marcel Vosshans et.al.|[2507.06687](http://arxiv.org/abs/2507.06687)|null|
+|**2025-07-09**|**FlexGaussian: Flexible and Cost-Effective Training-Free Compression for 3D Gaussian Splatting**|Boyuan Tian et.al.|[2507.06671](http://arxiv.org/abs/2507.06671)|null|
+|**2025-07-09**|**Assessing Learned Models for Phase-only Hologram Compression**|Zicong Peng et.al.|[2507.06646](http://arxiv.org/abs/2507.06646)|null|
+|**2025-07-09**|**On the solution operators arising from the gas-liquid two-phase problem in unbounded domains with finite depth**|Miao Tu et.al.|[2507.06498](http://arxiv.org/abs/2507.06498)|null|
+|**2025-07-09**|**EA: An Event Autoencoder for High-Speed Vision Sensing**|Riadul Islam et.al.|[2507.06459](http://arxiv.org/abs/2507.06459)|null|
+|**2025-07-08**|**Secure and Storage-Efficient Deep Learning Models for Edge AI Using Automatic Weight Generation**|Habibur Rahaman et.al.|[2507.06380](http://arxiv.org/abs/2507.06380)|null|
+|**2025-07-10**|**Integrated Open-Source Framework for Simulation of Transcatheter Pulmonary Valves in Native Right Ventricular Outflow Tracts**|Christopher N. Zelonis et.al.|[2507.06337](http://arxiv.org/abs/2507.06337)|null|
 |**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
 |**2025-07-03**|**MvHo-IB: Multi-View Higher-Order Information Bottleneck for Brain Disorder Diagnosis**|Kunyu Zhang et.al.|[2507.02847](http://arxiv.org/abs/2507.02847)|null|
 |**2025-07-03**|**Indexing Tries within Entropy-Bounded Space**|Lorenzo Carfagna et.al.|[2507.02728](http://arxiv.org/abs/2507.02728)|null|
