@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.14
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4589,6 +4589,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633](http://arxiv.org/abs/2507.07633)|null|
 |**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594](http://arxiv.org/abs/2507.05594)|null|
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
 |**2025-06-29**|**SIEDD: Shared-Implicit Encoder with Discrete Decoders**|Vikram Rangarajan et.al.|[2506.23382](http://arxiv.org/abs/2506.23382)|null|
@@ -4677,6 +4678,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Quantize-then-Rectify: Efficient VQ-VAE Training**|Borui Zhang et.al.|[2507.10547](http://arxiv.org/abs/2507.10547)|null|
+|**2025-07-14**|**WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling**|Qihui Yang et.al.|[2507.10534](http://arxiv.org/abs/2507.10534)|null|
+|**2025-07-14**|**Enhanced superconductivity in the compressively strained bilayer nickelate thin films by pressure**|Qing Li et.al.|[2507.10399](http://arxiv.org/abs/2507.10399)|null|
+|**2025-07-14**|**FGSSNet: Feature-Guided Semantic Segmentation of Real World Floorplans**|Hugo Norrby et.al.|[2507.10343](http://arxiv.org/abs/2507.10343)|null|
+|**2025-07-14**|**LogLite: Lightweight Plug-and-Play Streaming Log Compression**|Benzhao Tang et.al.|[2507.10337](http://arxiv.org/abs/2507.10337)|null|
+|**2025-07-14**|**Toward Real-World Table Agents: Capabilities, Workflows, and Design Principles for LLM-based Table Intelligence**|Jiaming Tian et.al.|[2507.10281](http://arxiv.org/abs/2507.10281)|null|
+|**2025-07-14**|**Compression Method for Deep Diagonal State Space Model Based on $H^2$ Optimal Reduction**|Hiroki Sakamoto et.al.|[2507.10078](http://arxiv.org/abs/2507.10078)|null|
+|**2025-07-14**|**Deep Learning-Based Beamforming Design Using Target Beam Patterns**|Hongpu Zhang et.al.|[2507.10063](http://arxiv.org/abs/2507.10063)|null|
+|**2025-07-14**|**GeLaCo: An Evolutionary Approach to Layer Compression**|David Ponce et.al.|[2507.10059](http://arxiv.org/abs/2507.10059)|null|
+|**2025-07-14**|**Latent Diffusion Models with Masked AutoEncoders**|Junho Lee et.al.|[2507.09984](http://arxiv.org/abs/2507.09984)|null|
 |**2025-07-09**|**Compressibility of Confined Fluids from Volume Fluctuations**|Jason Ogbebor et.al.|[2507.07020](http://arxiv.org/abs/2507.07020)|null|
 |**2025-07-09**|**Generating Multi-Table Time Series EHR from Latent Space with Minimal Preprocessing**|Eunbyeol Cho et.al.|[2507.06996](http://arxiv.org/abs/2507.06996)|null|
 |**2025-07-09**|**HVI-CIDNet+: Beyond Extreme Darkness for Low-Light Image Enhancement**|Qingsen Yan et.al.|[2507.06814](http://arxiv.org/abs/2507.06814)|null|
