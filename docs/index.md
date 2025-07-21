@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4471,6 +4471,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-13**|**A Survey on Medical Image Compression: From Traditional to Learning-Based**|Guofeng Tong et.al.|[2507.10615](http://arxiv.org/abs/2507.10615)|null|
 |**2025-07-09**|**Assessing Learned Models for Phase-only Hologram Compression**|Zicong Peng et.al.|[2507.06646](http://arxiv.org/abs/2507.06646)|null|
 |**2025-07-08**|**Optimization of Fractal Image Compression**|Nastaran Pourshab et.al.|[2507.06325](http://arxiv.org/abs/2507.06325)|null|
 |**2025-07-01**|**LotteryCodec: Searching the Implicit Representation in a Random Network for Low-Complexity Image Compression**|Haotian Wu et.al.|[2507.01204](http://arxiv.org/abs/2507.01204)|null|
@@ -4589,6 +4590,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**CompressedVQA-HDR: Generalized Full-reference and No-reference Quality Assessment Models for Compressed High Dynamic Range Videos**|Wei Sun et.al.|[2507.11900](http://arxiv.org/abs/2507.11900)|null|
 |**2025-07-11**|**T-GVC: Trajectory-Guided Generative Video Coding at Ultra-Low Bitrates**|Zhitao Wang et.al.|[2507.07633](http://arxiv.org/abs/2507.07633)|null|
 |**2025-07-08**|**GSVR: 2D Gaussian-based Video Representation for 800+ FPS with Hybrid Deformation Field**|Zhizhuo Pang et.al.|[2507.05594](http://arxiv.org/abs/2507.05594)|null|
 |**2025-06-30**|**How to Design and Train Your Implicit Neural Representation for Video Compression**|Matthew Gwilliam et.al.|[2506.24127](http://arxiv.org/abs/2506.24127)|null|
@@ -4678,6 +4680,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Training-free Token Reduction for Vision Mamba**|Qiankun Ma et.al.|[2507.14042](http://arxiv.org/abs/2507.14042)|null|
+|**2025-07-18**|**Optimal antimatroid sorting**|Benjamin Aram Berendsohn et.al.|[2507.13994](http://arxiv.org/abs/2507.13994)|null|
+|**2025-07-18**|**Quasinormal Modes of a Massive Scalar Field in Slowly Rotating Einstein-Bumblebee Black Holes**|Weike Deng et.al.|[2507.13978](http://arxiv.org/abs/2507.13978)|null|
+|**2025-07-18**|**DiViD: Disentangled Video Diffusion for Static-Dynamic Factorization**|Marzieh Gheisari et.al.|[2507.13934](http://arxiv.org/abs/2507.13934)|null|
+|**2025-07-18**|**Exploiting scattering-based point spread functions for snapshot 5D and modality-switchable lensless imaging**|Ze Zheng et.al.|[2507.13813](http://arxiv.org/abs/2507.13813)|null|
+|**2025-07-18**|**Pass-efficient Randomized Algorithms for Low-rank Approximation of Quaternion Matrices**|Salman Ahmadi-Asl et.al.|[2507.13731](http://arxiv.org/abs/2507.13731)|null|
+|**2025-07-18**|**Strain-Engineered Electronic Structure and Superconductivity in La $_3$Ni$_2$O$_7$ Thin Films**|Yu-Han Cao et.al.|[2507.13694](http://arxiv.org/abs/2507.13694)|null|
+|**2025-07-18**|**Topological signatures of jamming in granular force networks via persistent homology**|Vishali S et.al.|[2507.13690](http://arxiv.org/abs/2507.13690)|null|
+|**2025-07-18**|**LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues**|Haoyang Li et.al.|[2507.13681](http://arxiv.org/abs/2507.13681)|null|
+|**2025-07-18**|**Coupled Modeling of External Pressure and Capillary Blood Flow: Nonlinear Dynamics of Vascular Elasticity and Collapse Effects**|Xinyi Cai et.al.|[2507.13653](http://arxiv.org/abs/2507.13653)|null|
 |**2025-07-14**|**Quantize-then-Rectify: Efficient VQ-VAE Training**|Borui Zhang et.al.|[2507.10547](http://arxiv.org/abs/2507.10547)|null|
 |**2025-07-14**|**WildFX: A DAW-Powered Pipeline for In-the-Wild Audio FX Graph Modeling**|Qihui Yang et.al.|[2507.10534](http://arxiv.org/abs/2507.10534)|null|
 |**2025-07-14**|**Enhanced superconductivity in the compressively strained bilayer nickelate thin films by pressure**|Qing Li et.al.|[2507.10399](http://arxiv.org/abs/2507.10399)|null|
